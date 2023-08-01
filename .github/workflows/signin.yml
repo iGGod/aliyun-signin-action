@@ -14,5 +14,5 @@ jobs :
           REFRESH_ TOKENS: ${{ secrets.REFRESH_TOKENS }}
           GP_ TOKEN: ${{ secrets.GP_TOKEN}}
           PUSH_ TYPES: 'TELEGRAM'
-          TELEGRAM_ BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHАT_ID: ${{ secrets.TELEGRAM_CHАT_ID }}
